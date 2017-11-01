@@ -14,8 +14,6 @@ title: Web 前端开发工程师 / JavaScript 开发工程师
 
 - 李耀力 / 男 / 1993
 - 2012.9-2016.7 / 郑州大学（211） / 本科 / 计算机科学与技术
-- 校三等奖学金 / 校三好学生 / 院辩论队副队长
-- 音乐狗 / 美腿控 / 像素眼
 - 技术博客：<a href="http://liyaoli.com" target="_blank">http://liyaoli.com</a>
 - GitHub：<a href="https://github.com/zzuieliyaoli" target="_blank">https://github.com/zzuieliyaoli</a>
 - 知乎：<a href="https://www.zhihu.com/people/zzuieliyaoli" target="_blank">https://www.zhihu.com/people/zzuieliyaoli</a>
@@ -66,8 +64,11 @@ title: Web 前端开发工程师 / JavaScript 开发工程师
 
 ### 库音
 
-- 独自承担 70% 页面任务；
+- 库音是用于用于版权授权的平台，是公司为探索“音乐版权变现”新渠道的尝试；
+- 参与需求分析、交互优化、设计规范指定等工作，并承担 70% 前端页面编码工作；
 - Vue 全家桶开发，修改 ElementUI 代码及样式以适配项目需求；
+- 项目在指定日期开发测试完成，并成功上线；
+- 完整的参与项目“从 0 到 1”的过程，需求分析、团队协作和技术水平得到不小的提升。
 
 ### JavaScript 异常监控系统
 
